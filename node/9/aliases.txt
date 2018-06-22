@@ -1,3 +1,6 @@
 matias/node:9
 reg.127.0.0.1.nip.io:5443/matias/node:9-alpine
 reg-ro.127.0.0.1.nip.io:6443/matias/node:9-alpine
+matias/node:latest
+reg.127.0.0.1.nip.io:5443/matias/node:latest
+reg-ro.127.0.0.1.nip.io:6443/matias/node:latest
