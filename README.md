@@ -7,3 +7,5 @@ Images
 ---
 
 * Node JS 9/10
+* Python 3.6
+    * Django 2.0
