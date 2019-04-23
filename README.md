@@ -6,6 +6,6 @@ My usual images with builder system for update in one shot.
 Images
 ---
 
-* Node JS 9/10
+* Node JS 9/10/11
 * Python 3.6
-    * Django 2.0
+* Django 2.0

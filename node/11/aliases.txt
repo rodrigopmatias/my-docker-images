@@ -1,0 +1,3 @@
+matias/node:11-alpine
+reg.127.0.0.1.nip.io:5443/matias/node:11-alpine
+reg-ro.127.0.0.1.nip.io:6443/matias/node:11-alpine

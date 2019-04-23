@@ -9,4 +9,4 @@ LABEL build.date ${BUILD_DATE}
 
 RUN apk update && \
     apk add git && \
-    yarn global add @angular/cli create-react-app
+    yarn global add @angular/cli create-react-app @vue/cli @vue/cli-init @adonisjs/cli
