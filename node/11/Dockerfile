@@ -8,10 +8,5 @@ LABEL author.email "rodrigopmatias@gmail.com"
 LABEL build.date ${BUILD_DATE}
 
 RUN apk update && \
-<<<<<<< HEAD
     apk add git sqlite && \
     yarn global add sqlite3 @angular/cli create-react-app @vue/cli @vue/cli-init @adonisjs/cli
-=======
-    apk add git && \
-    yarn global add @angular/cli create-react-app @vue/cli @vue/cli-init
->>>>>>> b70a135fc3de3eda186de3f1816021ea5e25fc3b
